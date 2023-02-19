@@ -1,0 +1,36 @@
+[33mcommit 7f385a4e9b0999431a26ff472ec8dbc24f4c8b42[m[33m ([m[1;36mHEAD -> [m[1;32mdemo[m[33m, [m[1;31mrepo/demo[m[33m)[m
+Author: Rishi Kakkar <rishikakkar2001@gmail.com>
+Date:   Mon Feb 20 01:08:18 2023 +0530
+
+    this is my demo file
+
+[33mcommit 5e682a1199992ec83d317b0946508f9e5b189b23[m[33m ([m[1;32msprint2[m[33m)[m
+Merge: ed14cc2 dae1e24
+Author: Rishi Kakkar <rishikakkar2001@gmail.com>
+Date:   Sun Feb 19 14:00:23 2023 +0530
+
+    Merge branch 'sprint1' into sprint2
+
+[33mcommit ed14cc2e67fc9bd24c5a174a524c4d75143ebc73[m[33m ([m[1;31mrepo/sprint2[m[33m)[m
+Author: Rishi Kakkar <rishikakkar2001@gmail.com>
+Date:   Sun Feb 19 13:57:39 2023 +0530
+
+    this is sprint2
+
+[33mcommit dae1e24bcae361faba8b83d948f1e67f23bde754[m[33m ([m[1;31mrepo/sprint1[m[33m, [m[1;32msprint1[m[33m)[m
+Author: Rishi Kakkar <rishikakkar2001@gmail.com>
+Date:   Sun Feb 19 13:55:31 2023 +0530
+
+    sprint1 branch
+
+[33mcommit c908d888ad710bae915ffccb86c244efd083784e[m[33m ([m[1;31morigin/UAT[m[33m)[m
+Author: Rishi Kakkar <rishikakkar2001@gmail.com>
+Date:   Sun Feb 19 13:45:46 2023 +0530
+
+    this is my uat file branch
+
+[33mcommit a7ff7d6172bacd4b5ddb73986047cb56b446a694[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Rishi Kakkar <rishikakkar2001@gmail.com>
+Date:   Sun Feb 19 13:40:57 2023 +0530
+
+    local
